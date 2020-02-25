@@ -25,3 +25,8 @@
     portal
 
     IDEA: MealPlanner and Health Management
+        alabolration and the project breif will need to be created to spec
+
+    Design for the users not the owner!
+
+    Audience Defintion needs to be revisted as the project develops
