@@ -50,6 +50,11 @@
   
 
     ---VUE---
+    vue is a framework created by Evan You. It enables the creation of single page applications using Javascript. It is designed to create a more maintainable and testable code base and is a PROGRESSIVE framework, which means you can plug it into just a section of the code base and will not need to start from scratch. 
+
+    Vue also has the core librarys and ecosystem of management codebase to create a great base application out of the box. Vue is a realtime updating codebase that makes debugging much faster. It does this by updating a single source of data for all areas of the application.
+
+    Uses directives inside html js elements to create neat for while and if logic.
 
 
 
