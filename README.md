@@ -47,7 +47,7 @@
 
     The goal is to increase the websites worth and the benefit of my sisters community based around the specific cooking appliance "Thermomix". This feature is a large portion of what will make the website valuable to the owner and also to the community
 
-    As the platform requires some sort of auction 
+  
 
     ---VUE---
 
