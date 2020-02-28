@@ -41,7 +41,7 @@
 
     This platform will accomodate the user base of 2000 members that are registered in the facebook group "meat free mixing with mandy". This group requires a meal planning and dietry needs application and will also offer the ability for users to share thier specific meal plans and diets through a sharing portal similar to an auction house where users can display specific diets for others to use. 
     
-    This is the fundemental idea to be created. The product is a service and instead of an auction house for physical items, a sharing portal of valued information will be instantiated 
+    This is the fundemental idea to be created. The product is a service and instead of an auction house for physical items, a sharing portal of valued information will be created. 
 
     As the platform requires some sort of auction 
 
@@ -52,3 +52,5 @@
 
 
     ---Express---
+
+ 
