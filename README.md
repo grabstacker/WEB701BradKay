@@ -47,8 +47,6 @@
 
     The goal is to increase the websites worth and the benefit of my sisters community based around the specific cooking appliance "Thermomix". This feature is a large portion of what will make the website valuable to the owner and also to the community
 
-  
-
     ---VUE---
     vue is a framework created by Evan You. It enables the creation of single page applications using Javascript. It is designed to create a more maintainable and testable code base and is a PROGRESSIVE framework, which means you can plug it into just a section of the code base and will not need to start from scratch. 
 
@@ -56,10 +54,7 @@
 
     Uses directives inside html js elements to create neat for while and if logic.
 
-
-
-
-
     ---Express---
 
- 
+    Express i a framework built to handle all the heavy lifting of passing information around a node application. This offers alot of tools and functionalitys that take care of the hard work like routes and rendering. 
+    This minimises bugs and gets you working on the functionality rather than the base building of an application in js.
