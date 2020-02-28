@@ -42,6 +42,10 @@
     This platform will accomodate the user base of 2000 members that are registered in the facebook group "meat free mixing with mandy". This group requires a meal planning and dietry needs application and will also offer the ability for users to share thier specific meal plans and diets through a sharing portal similar to an auction house where users can display specific diets for others to use. 
     
     This is the fundemental idea to be created. The product is a service and instead of an auction house for physical items, a sharing portal of valued information will be created. 
+    
+    The purpose of this website is to increase the community participation in the website mixingwithmandy.com which is a wordpress installation and recipie food style website. As this website is expanding fast it requires better features and information management to accomodate the communities requirements. This is a real community based around my Sisters Thermomix cooking group mentioned above. 
+
+    The goal is to increase the websites worth and the benefit of my sisters community based around the specific cooking appliance "Thermomix". This feature is a large portion of what will make the website valuable to the owner and also to the community
 
     As the platform requires some sort of auction 
 
