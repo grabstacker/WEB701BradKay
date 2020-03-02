@@ -56,5 +56,42 @@
 
     ---Express---
 
-    Express i a framework built to handle all the heavy lifting of passing information around a node application. This offers alot of tools and functionalitys that take care of the hard work like routes and rendering. 
+    Express is a framework built to handle all the heavy lifting of passing information around a node application.
+     This offers alot of tools and functionalitys that take care of the hard work like routes and rendering. 
     This minimises bugs and gets you working on the functionality rather than the base building of an application in js.
+
+
+    ## 02/03/2020 monday 3rd class
+
+    Need to do 10 hours outside work for every 4 hour of class time
+
+    Different frameworks 
+        RUBY
+
+        Lynda.com has some good tuts for the express and frameworks
+
+        What is a framework? The base libaray that enables the foundation to build upon
+
+        RESTFULL API is like get post etc
+
+        WEBSOCKETs < communitcation >
+
+        Need to ask why this feature is in the website and ellaborate the reasoning behind it.
+
+        5 snarios for the website
+
+        Find 5 websites that are similar and write a summery of requirements
+
+        design can be pulled from providing the client with examples to choose from
+
+        what are the functions what does it need to do Do i need to menton the administrators do i need to mention the ceo etc
+        using metaphors can help guide the design and path of the website
+
+        Grouping the content on the website once identified
+
+        global navigation, is it needed for the specific content or is it just sub content
+
+        
+
+
+
