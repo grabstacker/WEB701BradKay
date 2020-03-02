@@ -91,7 +91,13 @@
 
         global navigation, is it needed for the specific content or is it just sub content
 
-        
+        SVG scalable vector graphics <-- interesting website dev framwork>
+
+
+        HOMEWORK
+        Competitive analysis screen shots
+        Install express and look at the vue features and will this work for my website
+        Create a base installation and repo for the website
 
 
 
